@@ -83,6 +83,9 @@
 - [Curso do CFBCursos](https://www.youtube.com/watch?v=nUnR8Q_hF4U&list=PLx4x_zx8csUgB4R1dDXke4uKMq-IrSr4B)
 - [Curso do Programação Web](https://www.youtube.com/watch?v=bGUuPgEn4U4&list=PL2Fdisxwzt_cOvOTUJhwEOxNV59wTs3ac)
 - [Curso do João Ribeiro](https://www.youtube.com/watch?v=jVUeF7cZdFE&list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ)
+- [Cursos do Clube Full-Stack](https://www.youtube.com/@AlexandreCardoso/featured)
+- [Dicas do Vinicius Dias](https://www.youtube.com/@DiasdeDev)
+- [Dicas do WDEV](https://www.youtube.com/@wdevoficial)
 
 ### 📚 | Ruby
 - [Curso do Danilo Aparecido](https://www.youtube.com/watch?v=zB4m43UPAxk&list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0)
