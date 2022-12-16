@@ -32,6 +32,12 @@
 - [Curso do Professor Ramos](https://www.youtube.com/watch?v=IoFmRUdsAUc&list=PL35Zp8zig6slB_EaLbwKP57L9weBfICtS)
 - [Curso do Instituto de Script's](https://www.youtube.com/watch?v=uEBb-d954M4&list=PLO_mlVzHgDw3EIKrT5rma_rmC4Lcc7ihT)
 
+### 📚 | Redes
+
+- [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=QkMbqL8QD9w&list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+- [Curso do Hardware Redes Brasil](https://www.youtube.com/watch?v=anFV6z8pEVU&list=PLAp37wMSBouBnNup2tD-mC36JT96vHBZy)
+- [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=efGBoJ-f_2Y&list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU)
+- [Curso do Leonardo Furtado](https://www.youtube.com/watch?v=qeKIqC2cBo0&list=PL1ohpeRa0gZ8mY4oGrX1d-H9YZW_jTAxb)
 
 ### 📚 | Git e GitHub
 
