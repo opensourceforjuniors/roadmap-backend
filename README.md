@@ -20,7 +20,7 @@
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=41ubXTEPFO0&list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
 - [Curso do Node Studio Treinamentos](https://www.youtube.com/watch?v=4ZAOWlZRbZk&list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o)
 
-### 📚 | Bash/Shell
+### 📚 | Bash
 
 - [Curso do Geofisicando](https://www.youtube.com/watch?v=HRRfgufskaw&list=PLLCFxfe9wkl-k0w-c_1i4sdZPUYt0Yc2P)
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
