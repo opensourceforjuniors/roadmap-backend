@@ -11,7 +11,7 @@
 </div>
 </br>
 
-## Parte 0 | Conhecimento básico geral
+## Parte 0 | Conhecimento básico
 
 ### 📚 | Lógica de Programação
 
