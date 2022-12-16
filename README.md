@@ -39,6 +39,13 @@
 - [Curso do Boson Treinamentos](https://www.youtube.com/watch?v=efGBoJ-f_2Y&list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU)
 - [Curso do Leonardo Furtado](https://www.youtube.com/watch?v=qeKIqC2cBo0&list=PL1ohpeRa0gZ8mY4oGrX1d-H9YZW_jTAxb)
 
+### 📚 | SQL
+
+- [Curso do Otávio Miranda](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)
+- [Curso do Alessandro Trovato](https://www.youtube.com/watch?v=OKqpZ6zbZwQ&list=PL7iAT8C5wumpQWB8AFW7CwK2nlzh8ZdP9)
+- [Curso do CFBCursos](https://www.youtube.com/watch?v=adIIAEc3Q04&list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra)
+- [Curso do Dev Aprender](https://www.youtube.com/watch?v=FNV7_9QsCok&list=PLnNURxKyyLIInBfeGiJ8L314AD015mHkv)
+
 ### 📚 | Git e GitHub
 
 - [Curso do Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
